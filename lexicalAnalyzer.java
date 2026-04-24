@@ -1,4 +1,4 @@
-public class Lexico {
+public class lexicalAnalyzer {
     private static final String OPERADORES = "~^v<>";
     private static final String VARIAVEIS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     private static final String PARENTESES = "()";
