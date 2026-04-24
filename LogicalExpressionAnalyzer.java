@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class Tautologia {
+public class LogicalExpressionAnalyzer {
     // Representação das fórmulas em árvore
     static class Formula {
         char tipo; // Tipo de fórmula ('v', '^', '>', '<', '∼', 'V')
