@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class Sintatico {
+public class SyntaxAnalyzer {
     // Símbolos válidos
     private static final String OPERADORES = "~^v><";
     private static final String VARIAVEIS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
